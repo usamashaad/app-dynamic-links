@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.pdfreader.pdfconverter.pdfviewer.makerapp.pdf.editor.ReadallPDFfiles",
+      "package_name": "com.pdfreader.pdfconverter.pdfviewer.makerapp.pdf.editor.ReadallPDFfiles",
+      "sha256_cert_fingerprints": ["0C:20:C7:9B:9B:1C:AE:A9:51:C7:0A:FF:A2:75:D9:F0:AF:CE:54:B6:4C:24:FA:4B:DB:52:CC:94:67:6A:1D:67"]
+    }
+  }
+]
